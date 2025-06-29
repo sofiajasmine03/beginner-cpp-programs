@@ -1,19 +1,20 @@
-# Sum of Three Numbers
+# Beginner C++ Programs
 
-This is a basic C++ program that:
-- Takes three integers as input
-- Calculates their sum
-- Prints the result
+This repository contains a collection of simple C++ programs for beginners. Each file focuses on a basic concept in C++ such as input/output, conditionals, or arithmetic operations. More programs will be added as the learning journey continues.
 
-## Example:
+## 📂 Program List
 
-### Input:
-10 20 30
+| File Name             | Description                                       |
+|-----------------------|---------------------------------------------------|
+| `hello_world.cpp`     | Prints "Hello, World!" to the console.            |
+| `sum_of_three.cpp`    | Takes three integers as input and prints their sum.|
 
-### Output:
-Sum=60
+## ▶️ How to Run
 
+You can compile and run any of these programs using a C++ compiler:
 
-## How to Run:
-- Open the code in Code::Blocks or any C++ editor
-- Build and run to see the result in the terminal
+### Using g++ (in terminal):
+
+```bash
+g++ filename.cpp -o output
+./output
