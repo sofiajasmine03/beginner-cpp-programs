@@ -2,14 +2,14 @@
 
 This repository contains a collection of simple C++ programs for beginners. Each file focuses on a basic concept in C++ such as input/output, conditionals, or arithmetic operations. More programs will be added as the learning journey continues.
 
-## 📂 Program List
+##  Program List
 
 | File Name             | Description                                       |
 |-----------------------|---------------------------------------------------|
 | `hello world.cpp`     | Prints "Hello, World!" to the console.            |
 | `sum_of_three.cpp`    | Takes three integers as input and prints their sum.|
 
-## ▶️ How to Run
+##  How to Run
 
 You can compile and run any of these programs using a C++ compiler:
 
