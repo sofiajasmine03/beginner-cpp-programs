@@ -1,3 +1,8 @@
+// Program: Sum of Three Numbers
+// Description: Takes three integers as input and prints their sum.
+// Input Example: 10 20 30
+// Output Example: Sum=60
+
 #include <iostream>
 using namespace std;
 
