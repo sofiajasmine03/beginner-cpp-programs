@@ -6,7 +6,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 
 | File Name             | Description                                       |
 |-----------------------|---------------------------------------------------|
-| `hello_world.cpp`     | Prints "Hello, World!" to the console.            |
+| `hello world.cpp`     | Prints "Hello, World!" to the console.            |
 | `sum_of_three.cpp`    | Takes three integers as input and prints their sum.|
 
 ## ▶️ How to Run
