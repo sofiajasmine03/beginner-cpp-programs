@@ -8,7 +8,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 |-----------------------|---------------------------------------------------|
 | `hello world.cpp`     | Prints "Hello, World!" to the console.            |
 | `sum_of_three.cpp`    | Takes three integers as input and prints their sum.|
-| `even and odd.cpp`    | Takes a number n as input from the user and prints whether each number from 1 to n is even or odd.|
+| `even or odd.cpp`    | Takes a number n as input from the user and prints whether each number from 1 to n is even or odd.|
 
 ##  How to Run
 
