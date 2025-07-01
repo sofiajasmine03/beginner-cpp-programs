@@ -1,5 +1,5 @@
 // Program: Maximum of Two Numbers
-// Determines the greater of two numbers.
+// Description: Determines the greater of two numbers.
 // Input Example: 3 7
 // Output Example: Greatest Number is 7
 
