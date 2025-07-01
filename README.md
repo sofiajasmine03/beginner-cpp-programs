@@ -10,6 +10,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 | `sum_of_three.cpp`    | Takes three integers as input and prints their sum.|
 | `even or odd.cpp`    | Takes a number n as input from the user and prints whether each number from 1 to n is even or odd.|
 | `simple calculator.cpp`| Performs addition, subtraction, multiplication, or division based on user input.|
+| `greatest number.cpp`| Determines the greater of two numbers.|
 
 ##  How to Run
 
