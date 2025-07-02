@@ -13,6 +13,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 | `greatest_number.cpp`| Determines the greater of two numbers.|
 | `table_generator.cpp`| Prints the multiplication table of a number from 1 to 10.|
 | `print_1_to_n.cpp`| Prints 1 to n using a loop.|
+| `factorial_calculator.cpp`| Gives factorial of a number.|
 
 ##  How to Run
 
