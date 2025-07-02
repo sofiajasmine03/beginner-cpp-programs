@@ -14,7 +14,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 | `table_generator.cpp`| Prints the multiplication table of a number from 1 to 10.|
 | `print_1_to_n.cpp`| Prints 1 to n using a loop.|
 | `factorial_calculator.cpp`| Gives factorial of a number.|
-
+| `sum_of_numbers`| Gives sum of first n natural numbers.|
 ##  How to Run
 
 You can compile and run any of these programs using a C++ compiler:
