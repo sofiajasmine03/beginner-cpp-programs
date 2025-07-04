@@ -15,6 +15,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 | `print_1_to_n.cpp`| Prints 1 to n using a loop.|
 | `factorial_calculator.cpp`| Gives factorial of a number.|
 | `sum_of_numbers.cpp`| Gives sum of first n natural numbers.|
+| `prime_number_checker.cpp`| Gives 'true' if a number is prime and 'false' otherwise.|
 ##  How to Run
 
 You can compile and run any of these programs using a C++ compiler:
