@@ -1,5 +1,5 @@
 // Program: Square of Stars
-// Description: This program prints a square of stars of size 'n × n' based on user input.
+// Description: Prints a square of stars of size 'n Ã— n' based on user input.
 // Input Example: 4
 /* Output Example: ****
                    ****
