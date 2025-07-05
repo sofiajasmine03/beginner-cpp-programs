@@ -16,6 +16,7 @@ This repository contains a collection of simple C++ programs for beginners. Each
 | 8   | `factorial_calculator.cpp`| Gives factorial of a number.                                                |
 | 9   | `sum_of_numbers.cpp`      | Gives sum of first n natural numbers.                                       |
 | 10  | `prime_number_checker.cpp`| Gives 'true' if a number is prime and 'false' otherwise.                    |
+| 11  | `square_of_stars.cpp`     | Prints a square of stars of size 'n × n' based on user input.               |
 
 ##  How to Run
 
